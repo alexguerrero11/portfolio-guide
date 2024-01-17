@@ -11,14 +11,14 @@ Welcome to my github portfolio! Here, I document a summary of my projects in the
 # SQL
 
 # Python
-<!--## [Workout Dashboard](https://github.com/alexguerrero11/workout-dash)
+## [Workout Dashboard](https://github.com/alexguerrero11/workout-dash)
 One of my goal last year was to start going to the gym more frequently. I started to record my workout data in google sheets over the years and created a dashboard to display some main KPI's.
 - count of days out of current week
 - count of days out of current month
 - total records in dataset
 
 link to [Streamlit App](https://alexguerrero11-workout-dash-app-w6rpqx.streamlit.app)
--->
+
 
 ## [100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/alexguerrero11/100-days-of-coding-python)
 Practicing python by building 100 projects in 100 days. Learning automation, game, app and web development, data science and machine learning all using Python.
