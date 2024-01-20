@@ -1,6 +1,6 @@
 # Alex's Portfolio
 
-Welcome to my github portfolio! Here, I document a summary of my projects in the data & cybersercurity field. 
+Welcome to my GitHub portfolio! Here, I document a summary of my projects in the data & cybersecurity field. 
 
 ## 📚 Table of Contents
 - [SQL](#sql)
@@ -12,16 +12,16 @@ Welcome to my github portfolio! Here, I document a summary of my projects in the
 
 # Python
 ## [Workout Dashboard](https://github.com/alexguerrero11/workout-dash)
-One of my goal last year was to start going to the gym more frequently. I started to record my workout data in google sheets over the years and created a dashboard to display some main KPI's.
-- count of days out of current week
-- count of days out of current month
-- total records in dataset
+My goal last year was to start going to the gym more frequently. I began to record my workout data in Google Sheets over the years. Using the Streamlit app to generate a dashboard to track and visualize my exercises over time. The dashboard displays some KPIs listed below. In addition, it allows you to select a muscle group, view an overview of workout data, and highlight weight progression for each exercise in the chosen muscle group.
+- Count the days out of the current week.
+- Count the days out of the current month.
+- Total Count of Records in the dataset.
 
-link to [Streamlit App](https://alexguerrero11-workout-dash-app-w6rpqx.streamlit.app)
+Link to [Streamlit App](https://alexguerrero11-workout-dash-app-w6rpqx.streamlit.app)
 
 
 ## [100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/alexguerrero11/100-days-of-coding-python)
-Practicing python by building 100 projects in 100 days. Learning automation, game, app and web development, data science and machine learning all using Python.
+Practicing Python by building 100 projects in 100 days. Learning automation, game, app, and web development, data science, and machine learning, all using Python.
 
 
  <!---
